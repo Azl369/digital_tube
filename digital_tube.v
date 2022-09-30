@@ -31,17 +31,22 @@ input wire	reset;
 output wire	[6:0] q;
 output wire	[3:0] d_out;
 
+wire   clk_5;
 wire	[3:0] d;
 wire	[6:0] q_ALTERA_SYNTHESIZED;
 wire	[3:0] SYNTHESIZED_WIRE_0;
 wire	[3:0] SYNTHESIZED_WIRE_1;
 
 
-
+f_div b2v_inst3(
+.clk_50M(clk),
+.reset(reset),
+.f_5M(clk_5)
+);
 
 
 JSQ	b2v_inst(
-	.clk(clk),
+	.clk(clk_5),
 	.reset(reset),
 	.qh(SYNTHESIZED_WIRE_0),
 	.ql(SYNTHESIZED_WIRE_1));
