@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[verilog]": {
+        "editor.defaultFormatter": "ericsonj.verilogformat"
+    },
+
+}

@@ -1,0 +1,77 @@
+|digital_tube
+clk => clk.IN1
+q[0] << ym:b2v_inst2.a
+q[1] << ym:b2v_inst2.b
+q[2] << ym:b2v_inst2.c
+q[3] << ym:b2v_inst2.d
+q[4] << ym:b2v_inst2.e
+q[5] << ym:b2v_inst2.f
+q[6] << ym:b2v_inst2.g
+clk_sel => clk_sel.IN1
+d_out[0] << d[0].DB_MAX_OUTPUT_PORT_TYPE
+d_out[1] << d[1].DB_MAX_OUTPUT_PORT_TYPE
+d_out[2] << d[2].DB_MAX_OUTPUT_PORT_TYPE
+d_out[3] << d[3].DB_MAX_OUTPUT_PORT_TYPE
+reset => reset.IN1
+
+
+|digital_tube|JSQ:b2v_inst
+clk => qh[0]~reg0.CLK
+clk => qh[1]~reg0.CLK
+clk => qh[2]~reg0.CLK
+clk => qh[3]~reg0.CLK
+clk => m.CLK
+clk => ql[0]~reg0.CLK
+clk => ql[1]~reg0.CLK
+clk => ql[2]~reg0.CLK
+clk => ql[3]~reg0.CLK
+qh[0] <= qh[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qh[1] <= qh[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qh[2] <= qh[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+qh[3] <= qh[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+ql[0] <= ql[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+ql[1] <= ql[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+ql[2] <= ql[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+ql[3] <= ql[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+reset => ql.OUTPUTSELECT
+reset => ql.OUTPUTSELECT
+reset => ql.OUTPUTSELECT
+reset => ql.OUTPUTSELECT
+reset => qh.OUTPUTSELECT
+reset => qh.OUTPUTSELECT
+reset => qh.OUTPUTSELECT
+reset => qh.OUTPUTSELECT
+reset => m.ENA
+
+
+|digital_tube|px:b2v_inst1
+sl[0] => q.DATAA
+sl[1] => q.DATAA
+sl[2] => q.DATAA
+sl[3] => q.DATAA
+sh[0] => q.DATAB
+sh[1] => q.DATAB
+sh[2] => q.DATAB
+sh[3] => q.DATAB
+sel => Decoder0.IN0
+q[0] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[2] <= q.DB_MAX_OUTPUT_PORT_TYPE
+q[3] <= q.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|digital_tube|ym:b2v_inst2
+a <= a.DB_MAX_OUTPUT_PORT_TYPE
+b <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+c <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+d <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+e <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+f <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+g <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+dp <= <VCC>
+D3 => Decoder0.IN0
+D2 => Decoder0.IN1
+D1 => Decoder0.IN2
+D0 => Decoder0.IN3
+
+
