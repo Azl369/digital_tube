@@ -1,17 +1,17 @@
 |digital_tube
 clk => clk.IN1
-q[0] <= ym:b2v_inst2.a
-q[1] <= ym:b2v_inst2.b
-q[2] <= ym:b2v_inst2.c
-q[3] <= ym:b2v_inst2.d
-q[4] <= ym:b2v_inst2.e
-q[5] <= ym:b2v_inst2.f
-q[6] <= ym:b2v_inst2.g
+q[0] << ym:b2v_inst2.a
+q[1] << ym:b2v_inst2.b
+q[2] << ym:b2v_inst2.c
+q[3] << ym:b2v_inst2.d
+q[4] << ym:b2v_inst2.e
+q[5] << ym:b2v_inst2.f
+q[6] << ym:b2v_inst2.g
 clk_sel => clk_sel.IN1
-d_out[0] <= d[0].DB_MAX_OUTPUT_PORT_TYPE
-d_out[1] <= d[1].DB_MAX_OUTPUT_PORT_TYPE
-d_out[2] <= d[2].DB_MAX_OUTPUT_PORT_TYPE
-d_out[3] <= d[3].DB_MAX_OUTPUT_PORT_TYPE
+d_out[0] << d[0].DB_MAX_OUTPUT_PORT_TYPE
+d_out[1] << d[1].DB_MAX_OUTPUT_PORT_TYPE
+d_out[2] << d[2].DB_MAX_OUTPUT_PORT_TYPE
+d_out[3] << d[3].DB_MAX_OUTPUT_PORT_TYPE
 reset => reset.IN2
 
 

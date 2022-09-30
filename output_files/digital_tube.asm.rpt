@@ -1,5 +1,5 @@
 Assembler report for digital_tube
-Fri Sep 30 10:41:18 2022
+Fri Sep 30 17:05:54 2022
 Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Full Version
 
 
@@ -37,7 +37,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Fri Sep 30 10:41:18 2022 ;
+; Assembler Status      ; Successful - Fri Sep 30 17:05:54 2022 ;
 ; Revision Name         ; digital_tube                          ;
 ; Top-level Entity Name ; digital_tube                          ;
 ; Family                ; Cyclone V                             ;
@@ -92,8 +92,8 @@ applicable agreement for further details.
 ; Option         ; Setting                                                                         ;
 +----------------+---------------------------------------------------------------------------------+
 ; Device         ; 5CSEMA5F31C6                                                                    ;
-; JTAG usercode  ; 0x00AFB2FE                                                                      ;
-; Checksum       ; 0x00AFB2FE                                                                      ;
+; JTAG usercode  ; 0x00AF5C7C                                                                      ;
+; Checksum       ; 0x00AF5C7C                                                                      ;
 +----------------+---------------------------------------------------------------------------------+
 
 
@@ -103,12 +103,12 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Assembler
     Info: Version 13.1.0 Build 162 10/23/2013 SJ Full Version
-    Info: Processing started: Fri Sep 30 10:41:11 2022
+    Info: Processing started: Fri Sep 30 17:05:46 2022
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off digital_tube -c digital_tube
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 4765 megabytes
-    Info: Processing ended: Fri Sep 30 10:41:19 2022
+    Info: Peak virtual memory: 4758 megabytes
+    Info: Processing ended: Fri Sep 30 17:05:54 2022
     Info: Elapsed time: 00:00:08
     Info: Total CPU time (on all processors): 00:00:07
 
