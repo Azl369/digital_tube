@@ -18,21 +18,21 @@ n@_opt
 Z3 OL;O;10.4;61
 R0
 T_opt1
-Z4 !s110 1664505749
-Vgb>S92>a]Mz[KaVW5ZgWn0
+Z4 !s110 1664535674
+VSdTKhDl8@MeK[DV[OO7cM0
 R1
-=1-047c165cb619-63365795-18d-39a4
+=1-047c165cb619-6336cc7a-fe-2db0
 R2
 n@_opt1
 R3
 vdigital_tube
-Z5 !s110 1664505748
+Z5 !s110 1664535673
 !i10b 1
-!s100 UEOR5j_R?L7ngR8WVG`VB0
-I;B_0e71]eUa>;@]?Y^@f?2
+!s100 ^==c=Hk:lX6@2hNDG^Ng12
+I2;oH4Oo`Cj6K5e?ZI1_1P0
 Z6 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1664456414
+w1664526532
 8C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v
 FC:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v
 L0 19
@@ -40,7 +40,7 @@ Z7 OL;L;10.4;61
 r1
 !s85 0
 31
-!s108 1664505748.818000
+!s108 1664535673.652000
 !s107 C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube|C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v|
 !i113 0
@@ -49,11 +49,11 @@ Z9 !s92 -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tub
 vdigital_tube_vlg_tst
 R4
 !i10b 1
-!s100 9H9R5>>BLzj_EBgOIe:zi3
-IWL5c0JldREBiF9h4z9Jo]2
+!s100 ;Z^JoEmDg=AH;IKRO?b_D2
+IEj]1^:;gAmbK7EYc3`M;E1
 R6
 R0
-w1664503299
+w1664535658
 8C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt
 FC:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt
 L0 28
@@ -61,14 +61,35 @@ R7
 r1
 !s85 0
 31
-!s108 1664505749.164000
+!s108 1664535674.067000
 !s107 C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim|C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt|
 !i113 0
 R8
 !s92 -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vf_div
+R5
+!i10b 1
+!s100 MiXinU?Gb0D6H9e97=2KJ0
+InIY0Ea9TUb8<4:6T7gmH22
+R6
+R0
+w1664534916
+8C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v
+FC:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1664535673.977000
+!s107 C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube/f_div|C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v|
+!i113 0
+R8
+!s92 -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/f_div -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 vJSQ
-R4
+R5
 !i10b 1
 !s100 `JCPE6_n4LMgT?Dgb4`Gd1
 I[ZC6o1R6ZjlS^V>OITbh53
@@ -82,7 +103,7 @@ R7
 r1
 !s85 0
 31
-!s108 1664505749.085000
+!s108 1664535673.900000
 !s107 C:/Users/29923/Desktop/FPGA/digital_tube/JSQ.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube|C:/Users/29923/Desktop/FPGA/digital_tube/JSQ.v|
 !i113 0
@@ -96,7 +117,7 @@ R5
 IBZ<HFJmO;N9h<]o^o1AiM3
 R6
 R0
-w1664437846
+w1664534560
 8C:/Users/29923/Desktop/FPGA/digital_tube/px.v
 FC:/Users/29923/Desktop/FPGA/digital_tube/px.v
 L0 1
@@ -104,14 +125,14 @@ R7
 r1
 !s85 0
 31
-!s108 1664505748.919000
+!s108 1664535673.732000
 !s107 C:/Users/29923/Desktop/FPGA/digital_tube/px.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube|C:/Users/29923/Desktop/FPGA/digital_tube/px.v|
 !i113 0
 R8
 R9
 vym
-R4
+R5
 !i10b 1
 !s100 NU_R6ATjJZFB<[RG3M^_g1
 I^1CE?JjTid`hlG_IS9YdI3
@@ -125,7 +146,7 @@ R7
 r1
 !s85 0
 31
-!s108 1664505748.991000
+!s108 1664535673.822000
 !s107 C:/Users/29923/Desktop/FPGA/digital_tube/ym.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/29923/Desktop/FPGA/digital_tube|C:/Users/29923/Desktop/FPGA/digital_tube/ym.v|
 !i113 0

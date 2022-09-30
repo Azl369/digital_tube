@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dC:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim
 va_graycounter
-Z1 !s110 1664505743
+Z1 !s110 1664535668
 !i10b 1
 !s100 FI?[k<oCFi9HWYigXHGcf0
 I[1g^fjH5m^TORfj_fJ=NY2
@@ -23,7 +23,7 @@ Z6 OL;L;10.4;61
 r1
 !s85 0
 31
-Z7 !s108 1664505743.163000
+Z7 !s108 1664535668.154000
 Z8 !s107 c:/altera/13.1/quartus/eda/sim_lib/altera_mf.v|
 Z9 !s90 -reportprogress|300|-vlog01compat|-work|altera_mf_ver|c:/altera/13.1/quartus/eda/sim_lib/altera_mf.v|
 !i113 0

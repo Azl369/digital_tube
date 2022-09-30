@@ -2,4 +2,100 @@
 TimeQuest Timing Analyzer Summary
 ------------------------------------------------------------
 
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -2.722
+TNS   : -82.038
+
+Type  : Slow 1100mV 85C Model Setup 'f_div:b2v_inst3|f_5M'
+Slack : -1.154
+TNS   : -8.779
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -1.760
+TNS   : -1.760
+
+Type  : Slow 1100mV 85C Model Hold 'f_div:b2v_inst3|f_5M'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.447
+TNS   : -17.249
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'f_div:b2v_inst3|f_5M'
+Slack : -0.394
+TNS   : -4.734
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -2.949
+TNS   : -81.081
+
+Type  : Slow 1100mV 0C Model Setup 'f_div:b2v_inst3|f_5M'
+Slack : -1.175
+TNS   : -8.902
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -1.605
+TNS   : -1.605
+
+Type  : Slow 1100mV 0C Model Hold 'f_div:b2v_inst3|f_5M'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.479
+TNS   : -18.857
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'f_div:b2v_inst3|f_5M'
+Slack : -0.394
+TNS   : -4.712
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -1.430
+TNS   : -36.224
+
+Type  : Fast 1100mV 85C Model Setup 'f_div:b2v_inst3|f_5M'
+Slack : -0.343
+TNS   : -2.434
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.850
+TNS   : -0.850
+
+Type  : Fast 1100mV 85C Model Hold 'f_div:b2v_inst3|f_5M'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.472
+TNS   : -3.223
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'f_div:b2v_inst3|f_5M'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -1.373
+TNS   : -31.397
+
+Type  : Fast 1100mV 0C Model Setup 'f_div:b2v_inst3|f_5M'
+Slack : -0.300
+TNS   : -2.050
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.771
+TNS   : -0.771
+
+Type  : Fast 1100mV 0C Model Hold 'f_div:b2v_inst3|f_5M'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.483
+TNS   : -3.253
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'f_div:b2v_inst3|f_5M'
+Slack : 0.119
+TNS   : 0.000
+
 ------------------------------------------------------------

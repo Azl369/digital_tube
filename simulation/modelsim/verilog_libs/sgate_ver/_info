@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dC:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim
 vio_buf_opdrn
-Z1 !s110 1664505742
+Z1 !s110 1664535667
 !i10b 1
 !s100 =^<AH`I:TA`[9YUe=h1;_1
 Ic[Q8E@oj7G=Z5J[bP8k0h2
@@ -23,7 +23,7 @@ Z6 OL;L;10.4;61
 r1
 !s85 0
 31
-Z7 !s108 1664505742.927000
+Z7 !s108 1664535667.899000
 Z8 !s107 c:/altera/13.1/quartus/eda/sim_lib/sgate.v|
 Z9 !s90 -reportprogress|300|-vlog01compat|-work|sgate_ver|c:/altera/13.1/quartus/eda/sim_lib/sgate.v|
 !i113 0

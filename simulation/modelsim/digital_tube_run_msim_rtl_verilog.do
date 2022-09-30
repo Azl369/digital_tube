@@ -49,6 +49,7 @@ vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {
 vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/px.v}
 vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/ym.v}
 vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/JSQ.v}
+vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/f_div {C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v}
 
 vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim {C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt}
 

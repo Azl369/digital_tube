@@ -30,7 +30,7 @@
 #          Updated modelsim.ini.
 # vlog -vlog01compat -work altera_ver {c:/altera/13.1/quartus/eda/sim_lib/altera_primitives.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:22 on Sep 30,2022
+# Start time: 19:01:07 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work altera_ver c:/altera/13.1/quartus/eda/sim_lib/altera_primitives.v 
 # -- Compiling module global
 # -- Compiling module carry
@@ -108,7 +108,7 @@
 # 	alt_iobuf_diff
 # 	alt_bidir_diff
 # 	alt_bidir_buf
-# End time: 10:42:22 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:07 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/lpm_ver
@@ -120,7 +120,7 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work lpm_ver {c:/altera/13.1/quartus/eda/sim_lib/220model.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:22 on Sep 30,2022
+# Start time: 19:01:07 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work lpm_ver c:/altera/13.1/quartus/eda/sim_lib/220model.v 
 # -- Compiling module LPM_MEMORY_INITIALIZATION
 # -- Compiling module LPM_HINT_EVALUATION
@@ -184,7 +184,7 @@
 # 	lpm_inpad
 # 	lpm_outpad
 # 	lpm_bipad
-# End time: 10:42:22 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:07 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/sgate_ver
@@ -196,7 +196,7 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work sgate_ver {c:/altera/13.1/quartus/eda/sim_lib/sgate.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:22 on Sep 30,2022
+# Start time: 19:01:07 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work sgate_ver c:/altera/13.1/quartus/eda/sim_lib/sgate.v 
 # -- Compiling module oper_add
 # -- Compiling module oper_addsub
@@ -238,7 +238,7 @@
 # 	oper_decoder
 # 	oper_bus_mux
 # 	oper_latch
-# End time: 10:42:22 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:07 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/altera_mf_ver
@@ -250,7 +250,7 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work altera_mf_ver {c:/altera/13.1/quartus/eda/sim_lib/altera_mf.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:23 on Sep 30,2022
+# Start time: 19:01:08 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work altera_mf_ver c:/altera/13.1/quartus/eda/sim_lib/altera_mf.v 
 # -- Compiling module lcell
 # -- Compiling module ALTERA_MF_MEMORY_INITIALIZATION
@@ -375,7 +375,7 @@
 # 	altserial_flash_loader
 # 	sld_virtual_jtag_basic
 # 	altsource_probe
-# End time: 10:42:23 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:08 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/altera_lnsim_ver
@@ -387,7 +387,7 @@
 # Modifying modelsim.ini
 # vlog -sv -work altera_lnsim_ver {c:/altera/13.1/quartus/eda/sim_lib/altera_lnsim.sv}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:23 on Sep 30,2022
+# Start time: 19:01:08 on Sep 30,2022
 # vlog -reportprogress 300 -sv -work altera_lnsim_ver c:/altera/13.1/quartus/eda/sim_lib/altera_lnsim.sv 
 # -- Compiling package altera_lnsim_functions
 # -- Compiling package altera_generic_pll_functions
@@ -450,7 +450,7 @@
 # 	altera_pll_reconfig_tasks
 # 	altera_syncram
 # 	altera_pll
-# End time: 10:42:24 on Sep 30,2022, Elapsed time: 0:00:01
+# End time: 19:01:09 on Sep 30,2022, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/cyclonev_ver
@@ -462,23 +462,23 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev_ver {c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:24 on Sep 30,2022
+# Start time: 19:01:09 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_ver c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 10:42:25 on Sep 30,2022, Elapsed time: 0:00:01
+# End time: 19:01:09 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_ver {c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_hmi_atoms_ncrypt.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:25 on Sep 30,2022
+# Start time: 19:01:10 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_ver c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_hmi_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 10:42:25 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:10 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_ver {c:/altera/13.1/quartus/eda/sim_lib/cyclonev_atoms.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:25 on Sep 30,2022
+# Start time: 19:01:10 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_ver c:/altera/13.1/quartus/eda/sim_lib/cyclonev_atoms.v 
 # -- Compiling UDP CYCLONEV_PRIM_DFFE
 # -- Compiling UDP CYCLONEV_PRIM_DFFEAS
@@ -618,7 +618,7 @@
 # 	cyclonev_mem_phy
 # 	cyclonev_oscillator
 # 	cyclonev_hps_interface_fpga2sdram
-# End time: 10:42:25 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:10 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/cyclonev_hssi_ver
@@ -630,15 +630,15 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev_hssi_ver {c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:26 on Sep 30,2022
+# Start time: 19:01:11 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_hssi_ver c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_hssi_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 10:42:27 on Sep 30,2022, Elapsed time: 0:00:01
+# End time: 19:01:11 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_hssi_ver {c:/altera/13.1/quartus/eda/sim_lib/cyclonev_hssi_atoms.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:27 on Sep 30,2022
+# Start time: 19:01:12 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_hssi_ver c:/altera/13.1/quartus/eda/sim_lib/cyclonev_hssi_atoms.v 
 # -- Compiling module cyclonev_hssi_8g_pcs_aggregate
 # -- Compiling module cyclonev_hssi_8g_rx_pcs
@@ -738,7 +738,7 @@
 # 	arriav_hssi_avmm_interface
 # 	arriav_hssi_pma_hi_pmaif
 # 	arriav_hssi_pma_hi_xcvrif
-# End time: 10:42:27 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:12 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlib verilog_libs/cyclonev_pcie_hip_ver
@@ -750,21 +750,21 @@
 # Modifying modelsim.ini
 # vlog -vlog01compat -work cyclonev_pcie_hip_ver {c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_pcie_hip_atoms_ncrypt.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:27 on Sep 30,2022
+# Start time: 19:01:12 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_pcie_hip_ver c:/altera/13.1/quartus/eda/sim_lib/mentor/cyclonev_pcie_hip_atoms_ncrypt.v 
 # 
 # Top level modules:
-# End time: 10:42:28 on Sep 30,2022, Elapsed time: 0:00:01
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work cyclonev_pcie_hip_ver {c:/altera/13.1/quartus/eda/sim_lib/cyclonev_pcie_hip_atoms.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:28 on Sep 30,2022
+# Start time: 19:01:13 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work cyclonev_pcie_hip_ver c:/altera/13.1/quartus/eda/sim_lib/cyclonev_pcie_hip_atoms.v 
 # -- Compiling module arriav_hd_altpe2_hip_top
 # 
 # Top level modules:
 # 	arriav_hd_altpe2_hip_top
-# End time: 10:42:28 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # if {[file exists rtl_work]} {
@@ -782,67 +782,78 @@
 # 
 # vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:28 on Sep 30,2022
+# Start time: 19:01:13 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube" C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v 
 # -- Compiling module digital_tube
 # 
 # Top level modules:
 # 	digital_tube
-# End time: 10:42:28 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/px.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:28 on Sep 30,2022
+# Start time: 19:01:13 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube" C:/Users/29923/Desktop/FPGA/digital_tube/px.v 
 # -- Compiling module px
 # 
 # Top level modules:
 # 	px
-# End time: 10:42:28 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/ym.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:28 on Sep 30,2022
+# Start time: 19:01:13 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube" C:/Users/29923/Desktop/FPGA/digital_tube/ym.v 
 # -- Compiling module ym
 # 
 # Top level modules:
 # 	ym
-# End time: 10:42:29 on Sep 30,2022, Elapsed time: 0:00:01
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube {C:/Users/29923/Desktop/FPGA/digital_tube/JSQ.v}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:29 on Sep 30,2022
+# Start time: 19:01:13 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube" C:/Users/29923/Desktop/FPGA/digital_tube/JSQ.v 
 # -- Compiling module JSQ
 # 
 # Top level modules:
 # 	JSQ
-# End time: 10:42:29 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/f_div {C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v}
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 19:01:13 on Sep 30,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube/f_div" C:/Users/29923/Desktop/FPGA/digital_tube/f_div/f_div.v 
+# -- Compiling module f_div
+# 
+# Top level modules:
+# 	f_div
+# End time: 19:01:13 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -vlog01compat -work work +incdir+C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim {C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt}
 # Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
-# Start time: 10:42:29 on Sep 30,2022
+# Start time: 19:01:14 on Sep 30,2022
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim" C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt 
 # -- Compiling module digital_tube_vlg_tst
 # 
 # Top level modules:
 # 	digital_tube_vlg_tst
-# End time: 10:42:29 on Sep 30,2022, Elapsed time: 0:00:00
+# End time: 19:01:14 on Sep 30,2022, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  digital_tube_vlg_tst
 # vsim -gui "+altera" -l msim_transcript -do "digital_tube_run_msim_rtl_verilog.do" 
-# Start time: 10:42:29 on Sep 30,2022
+# Start time: 19:01:14 on Sep 30,2022
 # ** Note: (vsim-3812) Design is being optimized...
 # 
-# ** Warning: C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v(59): (vopt-2685) [TFMPC] - Too few port connections for 'b2v_inst2'.  Expected 12, found 11.
+# ** Warning: C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v(64): (vopt-2685) [TFMPC] - Too few port connections for 'b2v_inst2'.  Expected 12, found 11.
 # 
-# ** Warning: C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v(59): (vopt-2718) [TFMPC] - Missing connection for port 'dp'.
+# ** Warning: C:/Users/29923/Desktop/FPGA/digital_tube/digital_tube.v(64): (vopt-2718) [TFMPC] - Missing connection for port 'dp'.
 # 
 # Loading work.digital_tube_vlg_tst(fast)
 # Loading work.digital_tube(fast)
+# Loading work.f_div(fast)
 # Loading work.JSQ(fast)
 # Loading work.px(fast)
 # Loading work.ym(fast)
@@ -852,10 +863,10 @@
 # 
 #           File in use by: 29923  Hostname: DESKTOP-S709REQ  ProcessID: 16072
 # 
-#           Attempting to use alternate WLF file "./wlftcq6g1r".
+#           Attempting to use alternate WLF file "./wlfthvcyd6".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
 # 
-#           Using alternate file: ./wlftcq6g1r
+#           Using alternate file: ./wlfthvcyd6
 # 
 # 
 # view structure
@@ -864,8 +875,9 @@
 # .main_pane.objects.interior.cs.body.tree
 # run -all
 # ** Note: $finish    : C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt(67)
-#    Time: 10 ns  Iteration: 0  Instance: /digital_tube_vlg_tst
+#    Time: 100 ns  Iteration: 0  Instance: /digital_tube_vlg_tst
 # 1
 # Break in Module digital_tube_vlg_tst at C:/Users/29923/Desktop/FPGA/digital_tube/simulation/modelsim/digital_tube_vlg_tst.vt line 67
-# End time: 10:44:34 on Sep 30,2022, Elapsed time: 0:02:05
-# Errors: 0, Warnings: 4
+add wave -position insertpoint sim:/digital_tube_vlg_tst/i1/b2v_inst3/*
+run -all
+# Causality operation skipped due to absence of debug database file
