@@ -881,3 +881,5 @@
 add wave -position insertpoint sim:/digital_tube_vlg_tst/i1/b2v_inst3/*
 run -all
 # Causality operation skipped due to absence of debug database file
+# End time: 19:07:43 on Sep 30,2022, Elapsed time: 0:06:29
+# Errors: 0, Warnings: 5
